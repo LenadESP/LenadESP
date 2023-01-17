@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LenadESP. Im actualy learning about python. Also learning about google extensions and JS. I think that we can be friends!
+- 👋 Hi, I’m @LenadESP. Im actualy learning python. I think that we can be friends!
 - Im not so good speakign in english because Im from spain, but if u want, I can speak spanish too.
 - I also like anime so much.
 
