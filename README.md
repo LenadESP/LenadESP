@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @LenadESP. Im actualy learning python. I think that we can be friends!
-- Im not so good speakign in english because Im from spain, but if u want, I can speak spanish too.
-- I also like anime so much.
+- 👋 Hi, I’m @LenadESP. Im actualy learning, I don't know exactly what as I love learning and I'm into everything HAHA. I think that we can be friends!
+- Since I'm Spanish I may make some mistakes speaking english, so feel free to correct if so.
+- No need to mention that I am obviously also fluent in Spanish, wich is my mother language.
+- I love reading and I have a great time reading mangas or watching anime :D.
 
 <!---
 LenadESP/LenadESP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
